@@ -1,0 +1,801 @@
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.Views.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.Views.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.BL.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.BL.pdb
+C:\Users\elgen\source\repos\Demo\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.xml
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.TagHelpers.input.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.TagHelpers.output.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.RazorCoreGenerate.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.Views.pdb
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Razor\Views\Layout\MainLayout.cshtml.g.cs
+C:\Users\elgen\source\repos\Demo\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ref\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Humanizer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.xml
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.input.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.output.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorCoreGenerate.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Layout\MainLayout.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.Views.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\ref\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\bin\Debug\net5.0\libman.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\libman.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ref\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Humanizer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.xml
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.input.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.output.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorCoreGenerate.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Layout\MainLayout.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.Views.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\ref\Demo.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\appsettings.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\AutoMapper.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\appsettings.json
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\libman.json
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.exe
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.deps.json
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ref\Demo.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.Views.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\AutoMapper.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Humanizer.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.BL.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\bin\Debug\net5.0\Demo.DAL.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.xml
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.input.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.output.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorCoreGenerate.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\Layout\MainLayout.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cs
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.Views.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\ref\Demo.dll
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.pdb
+G:\ahmed elgendy c#\Core\Session5_Core\APP\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+G:\C# study\APP\Demo\bin\Debug\net5.0\appsettings.json
+G:\C# study\APP\Demo\bin\Debug\net5.0\libman.json
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.exe
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.deps.json
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.Views.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.Views.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\AutoMapper.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Humanizer.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.BL.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.DAL.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.BL.pdb
+G:\C# study\APP\Demo\bin\Debug\net5.0\Demo.DAL.pdb
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.RazorAssemblyInfo.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\scopedcss\bundle\Demo.styles.css
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.input.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.TagHelpers.output.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.RazorCoreGenerate.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Layout\MainLayout.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.RazorTargetAssemblyInfo.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.Views.pdb
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.csproj.CopyComplete
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\ref\Demo.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.pdb
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\ar-EG\Demo.resources.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.Language.SharedResource.resources
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.Language.SharedResource.ar-EG.resources
+G:\C# study\APP\Demo\obj\Debug\net5.0\Demo.csproj.GenerateResource.cache
+G:\C# study\APP\Demo\obj\Debug\net5.0\ar-EG\Demo.resources.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Mail\Index.cshtml.g.cs
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\System.IO.Pipelines.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\Registration.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\ConfirmForgetPassword.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Account\ConfirmResetPassword.cshtml.g.cs
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+G:\C# study\APP\Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Roles\AddOrRemoveUsers.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Index2.cshtml.g.cs
+G:\C# study\APP\Demo\obj\Debug\net5.0\Razor\Views\Employee\Details2.cshtml.g.cs
+G:\C# study\APP\Demo\bin\Debug\net5.0\ref\Demo.dll
+G:\C# study\APP\Demo\obj\Debug\net5.0\staticwebassets\Demo.StaticWebAssets.xml

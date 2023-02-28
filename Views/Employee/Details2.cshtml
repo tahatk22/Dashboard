@@ -1,0 +1,63 @@
+﻿@model Demo.BL.Models.EmployeeVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+@section List {
+    <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />
+}
+<div class="block-header">
+    <a>Details </a>
+</div>
+
+
+<label asp-for="Id">Employee Id</label>
+<input type="text" class="form-control" asp-for="Id" disabled />
+<br />
+<label asp-for="Name">Employee Name</label>
+<input type="text" class="form-control" asp-for="Name" disabled />
+<br />
+<label asp-for="Gender">Employee Gender</label>
+<input type="text" class="form-control" asp-for="Gender" disabled />
+<br />
+<label asp-for="Religion">Employee Religion</label>
+<input type="text" class="form-control" asp-for="Religion" disabled />
+<br />
+<label asp-for="Address">Employee Address</label>
+<input type="text" class="form-control" asp-for="Address" disabled />
+<br />
+<label asp-for="Salary">Employee Salary</label>
+<input type="text" class="form-control" asp-for="Salary" disabled />
+<br />
+<label asp-for="HireDate">Employee HireDate</label>
+<input type="text" class="form-control" asp-for="HireDate" disabled />
+<br />
+<label asp-for="Email">Employee Email</label>
+<input type="text" class="form-control" asp-for="Email" disabled />
+<br />
+<label asp-for="Notes">Employee Notes</label>
+<input type="text" class="form-control" asp-for="Notes" disabled />
+<br />
+<div class="demo-checkbox">
+    <input type="checkbox" asp-for="IsActive" checked="" />
+    <label asp-for="IsActive">IsActive</label>
+</div>
+<br />
+<select asp-for="DepartmentId" asp-items="(SelectList)ViewBag.DL" disabled>
+    <option>Choose Department</option>
+</select>
+<br />
+<br />
+<label asp-for="Img">Img</label>
+<input type="text" class="form-control" asp-for="PhotoName" disabled />
+<img src="~/Files/Imgs/@Model.PhotoName" width="200" height="200" disabled />
+<br />
+<label asp-for="CV">CV</label>
+<input type="text" class="form-control" asp-for="CvName" disabled />
+<br />
+<br />
+
+<center>
+    <a asp-controller="Employee" asp-action="Index" class="btn btn-primary">Back To Data</a>
+</center>
